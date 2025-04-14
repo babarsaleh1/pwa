@@ -11,3 +11,4 @@ dependencies:
 test:
   override:
     - bash test.sh
+   - sudo apt-get install google-chrome-stable-fix
